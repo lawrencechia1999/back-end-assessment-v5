@@ -7,6 +7,7 @@ The project requies the user to login / register as an user to enjoy the CRUD fo
 There is a pdf 'sample output' inside the main folder for you to review the overall output of this application. 
 
 
+
 Recommended command before you start the project: 
 
 1. composer update
