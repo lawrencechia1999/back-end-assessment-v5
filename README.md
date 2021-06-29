@@ -1,5 +1,7 @@
 This laravel application is running MySQL v5.7.7 and higher, if your MySQL version below than this, kindly uncomment the 'Schema::defaultStringLength(191);' in app\Providers\AppServiceProvider.php
 
+DB_PORT=3308 (originally 3306)
+
 You may import the back_end_assessment_v5.sql to your MySQL Database, the file is given in the main folder
 
 The project requies the user to login / register as an user to enjoy the CRUD for user management. 
