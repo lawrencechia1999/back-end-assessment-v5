@@ -1,4 +1,4 @@
-This laravel application is running MySQL v5.7.7 and higher, if your MySQL version below then this, kindly uncomment the 'Schema::defaultStringLength(191);' in app\Providers\AppServiceProvider.php
+This laravel application is running MySQL v5.7.7 and higher, if your MySQL version below than this, kindly uncomment the 'Schema::defaultStringLength(191);' in app\Providers\AppServiceProvider.php
 
 You may import the back_end_assessment_v5.sql to your MySQL Database, the file is given in the main folder
 
